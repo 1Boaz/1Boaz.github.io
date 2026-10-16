@@ -1,11 +1,11 @@
 {
-    "name": "quotes",
-    "short_name": "quotes",
+    "name": "fll_path_planner",
+    "short_name": "fll_path_planner",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A Flutter project for automatically generating pseudo/python code for spike prime from a path drawn.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
